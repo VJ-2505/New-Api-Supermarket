@@ -1,0 +1,16 @@
+D:\Biz1Markt\Queen\Biz1Market_API_Queen\SuperMarketApi\obj\Release\netcoreapp2.2\PubTmp\Out\appsettings.Development.json
+D:\Biz1Markt\Queen\Biz1Market_API_Queen\SuperMarketApi\obj\Release\netcoreapp2.2\PubTmp\Out\appsettings.json
+D:\Biz1Markt\Queen\Biz1Market_API_Queen\SuperMarketApi\obj\Release\netcoreapp2.2\PubTmp\Out\SuperMarketApi.dll
+D:\Biz1Markt\Queen\Biz1Market_API_Queen\SuperMarketApi\obj\Release\netcoreapp2.2\PubTmp\Out\SuperMarketApi.runtimeconfig.json
+D:\Biz1Markt\Queen\Biz1Market_API_Queen\SuperMarketApi\obj\Release\netcoreapp2.2\PubTmp\Out\SuperMarketApi.pdb
+D:\Biz1Markt\Queen\Biz1Market_API_Queen\SuperMarketApi\obj\Release\netcoreapp2.2\PubTmp\Out\System.Web.Cors.dll
+D:\Biz1Markt\Queen\Biz1Market_API_Queen\SuperMarketApi\obj\Release\netcoreapp2.2\PubTmp\Out\System.Net.Http.Formatting.dll
+D:\Biz1Markt\Queen\Biz1Market_API_Queen\SuperMarketApi\obj\Release\netcoreapp2.2\PubTmp\Out\System.Web.Http.dll
+D:\Biz1Markt\Queen\Biz1Market_API_Queen\SuperMarketApi\obj\Release\netcoreapp2.2\PubTmp\Out\System.Web.Http.Cors.dll
+D:\Biz1Markt\Queen\Biz1Market_API_Queen\SuperMarketApi\obj\Release\netcoreapp2.2\PubTmp\Out\Microsoft.Azure.KeyVault.dll
+D:\Biz1Markt\Queen\Biz1Market_API_Queen\SuperMarketApi\obj\Release\netcoreapp2.2\PubTmp\Out\Microsoft.Azure.KeyVault.WebKey.dll
+D:\Biz1Markt\Queen\Biz1Market_API_Queen\SuperMarketApi\obj\Release\netcoreapp2.2\PubTmp\Out\Microsoft.Rest.ClientRuntime.dll
+D:\Biz1Markt\Queen\Biz1Market_API_Queen\SuperMarketApi\obj\Release\netcoreapp2.2\PubTmp\Out\Microsoft.Rest.ClientRuntime.Azure.dll
+D:\Biz1Markt\Queen\Biz1Market_API_Queen\SuperMarketApi\obj\Release\netcoreapp2.2\PubTmp\Out\xunit.abstractions.dll
+D:\Biz1Markt\Queen\Biz1Market_API_Queen\SuperMarketApi\obj\Release\netcoreapp2.2\PubTmp\Out\xunit.core.dll
+D:\Biz1Markt\Queen\Biz1Market_API_Queen\SuperMarketApi\obj\Release\netcoreapp2.2\PubTmp\Out\SuperMarketApi.deps.json

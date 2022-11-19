@@ -1,0 +1,16 @@
+C:\Api\SuperMarketApi\SuperMarketApi\obj\Release\netcoreapp2.2\PubTmp\Out\appsettings.Development.json
+C:\Api\SuperMarketApi\SuperMarketApi\obj\Release\netcoreapp2.2\PubTmp\Out\appsettings.json
+C:\Api\SuperMarketApi\SuperMarketApi\obj\Release\netcoreapp2.2\PubTmp\Out\SuperMarketApi.dll
+C:\Api\SuperMarketApi\SuperMarketApi\obj\Release\netcoreapp2.2\PubTmp\Out\SuperMarketApi.runtimeconfig.json
+C:\Api\SuperMarketApi\SuperMarketApi\obj\Release\netcoreapp2.2\PubTmp\Out\SuperMarketApi.pdb
+C:\Api\SuperMarketApi\SuperMarketApi\obj\Release\netcoreapp2.2\PubTmp\Out\System.Web.Cors.dll
+C:\Api\SuperMarketApi\SuperMarketApi\obj\Release\netcoreapp2.2\PubTmp\Out\System.Net.Http.Formatting.dll
+C:\Api\SuperMarketApi\SuperMarketApi\obj\Release\netcoreapp2.2\PubTmp\Out\System.Web.Http.dll
+C:\Api\SuperMarketApi\SuperMarketApi\obj\Release\netcoreapp2.2\PubTmp\Out\System.Web.Http.Cors.dll
+C:\Api\SuperMarketApi\SuperMarketApi\obj\Release\netcoreapp2.2\PubTmp\Out\Microsoft.Azure.KeyVault.dll
+C:\Api\SuperMarketApi\SuperMarketApi\obj\Release\netcoreapp2.2\PubTmp\Out\Microsoft.Azure.KeyVault.WebKey.dll
+C:\Api\SuperMarketApi\SuperMarketApi\obj\Release\netcoreapp2.2\PubTmp\Out\Microsoft.Rest.ClientRuntime.dll
+C:\Api\SuperMarketApi\SuperMarketApi\obj\Release\netcoreapp2.2\PubTmp\Out\Microsoft.Rest.ClientRuntime.Azure.dll
+C:\Api\SuperMarketApi\SuperMarketApi\obj\Release\netcoreapp2.2\PubTmp\Out\xunit.abstractions.dll
+C:\Api\SuperMarketApi\SuperMarketApi\obj\Release\netcoreapp2.2\PubTmp\Out\xunit.core.dll
+C:\Api\SuperMarketApi\SuperMarketApi\obj\Release\netcoreapp2.2\PubTmp\Out\SuperMarketApi.deps.json

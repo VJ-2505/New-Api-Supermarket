@@ -1,0 +1,160 @@
+C:\Work\API\SuperMarketApi\SuperMarketApi\obj\Debug\netcoreapp2.2\SuperMarketApi.csprojAssemblyReference.cache
+C:\Work\API\SuperMarketApi\SuperMarketApi\obj\Debug\netcoreapp2.2\SuperMarketApi.AssemblyInfoInputs.cache
+C:\Work\API\SuperMarketApi\SuperMarketApi\obj\Debug\netcoreapp2.2\SuperMarketApi.AssemblyInfo.cs
+C:\Work\API\SuperMarketApi\SuperMarketApi\obj\Debug\netcoreapp2.2\SuperMarketApi.csproj.CoreCompileInputs.cache
+C:\Work\API\SuperMarketApi\SuperMarketApi\obj\Debug\netcoreapp2.2\SuperMarketApi.RazorAssemblyInfo.cache
+C:\Work\API\SuperMarketApi\SuperMarketApi\obj\Debug\netcoreapp2.2\SuperMarketApi.RazorAssemblyInfo.cs
+C:\Work\API\SuperMarketApi\SuperMarketApi\bin\Debug\netcoreapp2.2\appsettings.Development.json
+C:\Work\API\SuperMarketApi\SuperMarketApi\bin\Debug\netcoreapp2.2\appsettings.json
+C:\Work\API\SuperMarketApi\SuperMarketApi\bin\Debug\netcoreapp2.2\Properties\launchSettings.json
+C:\Work\API\SuperMarketApi\SuperMarketApi\bin\Debug\netcoreapp2.2\SuperMarketApi.deps.json
+C:\Work\API\SuperMarketApi\SuperMarketApi\bin\Debug\netcoreapp2.2\SuperMarketApi.runtimeconfig.json
+C:\Work\API\SuperMarketApi\SuperMarketApi\bin\Debug\netcoreapp2.2\SuperMarketApi.runtimeconfig.dev.json
+C:\Work\API\SuperMarketApi\SuperMarketApi\bin\Debug\netcoreapp2.2\SuperMarketApi.dll
+C:\Work\API\SuperMarketApi\SuperMarketApi\bin\Debug\netcoreapp2.2\SuperMarketApi.pdb
+C:\Work\API\SuperMarketApi\SuperMarketApi\obj\Debug\netcoreapp2.2\SuperMarketApi.RazorTargetAssemblyInfo.cache
+C:\Work\API\SuperMarketApi\SuperMarketApi\obj\Debug\netcoreapp2.2\SuperMarketApi.dll
+C:\Work\API\SuperMarketApi\SuperMarketApi\obj\Debug\netcoreapp2.2\SuperMarketApi.pdb
+C:\Work\API\SuperMarketApi\SuperMarketApi\obj\Debug\netcoreapp2.2\SuperMarketApi.genruntimeconfig.cache
+C:\Api\SuperMarketApi\SuperMarketApi\bin\Debug\netcoreapp2.2\appsettings.Development.json
+C:\Api\SuperMarketApi\SuperMarketApi\bin\Debug\netcoreapp2.2\appsettings.json
+C:\Api\SuperMarketApi\SuperMarketApi\bin\Debug\netcoreapp2.2\SuperMarketApi.deps.json
+C:\Api\SuperMarketApi\SuperMarketApi\bin\Debug\netcoreapp2.2\SuperMarketApi.runtimeconfig.json
+C:\Api\SuperMarketApi\SuperMarketApi\bin\Debug\netcoreapp2.2\SuperMarketApi.runtimeconfig.dev.json
+C:\Api\SuperMarketApi\SuperMarketApi\bin\Debug\netcoreapp2.2\SuperMarketApi.dll
+C:\Api\SuperMarketApi\SuperMarketApi\bin\Debug\netcoreapp2.2\SuperMarketApi.pdb
+C:\Api\SuperMarketApi\SuperMarketApi\obj\Debug\netcoreapp2.2\SuperMarketApi.AssemblyInfoInputs.cache
+C:\Api\SuperMarketApi\SuperMarketApi\obj\Debug\netcoreapp2.2\SuperMarketApi.AssemblyInfo.cs
+C:\Api\SuperMarketApi\SuperMarketApi\obj\Debug\netcoreapp2.2\SuperMarketApi.csproj.CoreCompileInputs.cache
+C:\Api\SuperMarketApi\SuperMarketApi\obj\Debug\netcoreapp2.2\SuperMarketApi.RazorAssemblyInfo.cache
+C:\Api\SuperMarketApi\SuperMarketApi\obj\Debug\netcoreapp2.2\SuperMarketApi.RazorAssemblyInfo.cs
+C:\Api\SuperMarketApi\SuperMarketApi\obj\Debug\netcoreapp2.2\SuperMarketApi.RazorTargetAssemblyInfo.cache
+C:\Api\SuperMarketApi\SuperMarketApi\obj\Debug\netcoreapp2.2\SuperMarketApi.dll
+C:\Api\SuperMarketApi\SuperMarketApi\obj\Debug\netcoreapp2.2\SuperMarketApi.pdb
+C:\Api\SuperMarketApi\SuperMarketApi\obj\Debug\netcoreapp2.2\SuperMarketApi.genruntimeconfig.cache
+C:\Api\SuperMarketApi\SuperMarketApi\obj\Debug\netcoreapp2.2\SuperMarketApi.csprojAssemblyReference.cache
+C:\Users\welcome\SuperMarketApi\SuperMarketApi\obj\Debug\netcoreapp2.2\SuperMarketApi.AssemblyInfoInputs.cache
+C:\Users\welcome\SuperMarketApi\SuperMarketApi\obj\Debug\netcoreapp2.2\SuperMarketApi.AssemblyInfo.cs
+C:\Users\welcome\SuperMarketApi\SuperMarketApi\obj\Debug\netcoreapp2.2\SuperMarketApi.RazorAssemblyInfo.cache
+C:\Users\welcome\SuperMarketApi\SuperMarketApi\obj\Debug\netcoreapp2.2\SuperMarketApi.RazorAssemblyInfo.cs
+C:\Users\welcome\SuperMarketApi\SuperMarketApi\bin\Debug\netcoreapp2.2\appsettings.Development.json
+C:\Users\welcome\SuperMarketApi\SuperMarketApi\bin\Debug\netcoreapp2.2\appsettings.json
+C:\Users\welcome\SuperMarketApi\SuperMarketApi\bin\Debug\netcoreapp2.2\Properties\launchSettings.json
+C:\Users\welcome\SuperMarketApi\SuperMarketApi\bin\Debug\netcoreapp2.2\SuperMarketApi.deps.json
+C:\Users\welcome\SuperMarketApi\SuperMarketApi\bin\Debug\netcoreapp2.2\SuperMarketApi.runtimeconfig.json
+C:\Users\welcome\SuperMarketApi\SuperMarketApi\bin\Debug\netcoreapp2.2\SuperMarketApi.runtimeconfig.dev.json
+C:\Users\welcome\SuperMarketApi\SuperMarketApi\bin\Debug\netcoreapp2.2\SuperMarketApi.dll
+C:\Users\welcome\SuperMarketApi\SuperMarketApi\bin\Debug\netcoreapp2.2\SuperMarketApi.pdb
+C:\Users\welcome\SuperMarketApi\SuperMarketApi\obj\Debug\netcoreapp2.2\SuperMarketApi.RazorTargetAssemblyInfo.cache
+C:\Users\welcome\SuperMarketApi\SuperMarketApi\obj\Debug\netcoreapp2.2\SuperMarketApi.dll
+C:\Users\welcome\SuperMarketApi\SuperMarketApi\obj\Debug\netcoreapp2.2\SuperMarketApi.pdb
+C:\Users\welcome\SuperMarketApi\SuperMarketApi\obj\Debug\netcoreapp2.2\SuperMarketApi.genruntimeconfig.cache
+C:\Users\welcome\SuperMarketApi\SuperMarketApi\obj\Debug\netcoreapp2.2\SuperMarketApi.csprojAssemblyReference.cache
+C:\Users\welcome\SuperMarketApi\SuperMarketApi\obj\Debug\netcoreapp2.2\SuperMarketApi.csproj.CoreCompileInputs.cache
+C:\BizDom Work\SuperMarketApi\SuperMarketApi\obj\Debug\netcoreapp2.2\SuperMarketApi.dll
+C:\BizDom Work\SuperMarketApi\SuperMarketApi\obj\Debug\netcoreapp2.2\SuperMarketApi.pdb
+C:\BizDom Work\SuperMarketApi\SuperMarketApi\bin\Debug\netcoreapp2.2\appsettings.Development.json
+C:\BizDom Work\SuperMarketApi\SuperMarketApi\bin\Debug\netcoreapp2.2\appsettings.json
+C:\BizDom Work\SuperMarketApi\SuperMarketApi\bin\Debug\netcoreapp2.2\SuperMarketApi.deps.json
+C:\BizDom Work\SuperMarketApi\SuperMarketApi\bin\Debug\netcoreapp2.2\SuperMarketApi.runtimeconfig.json
+C:\BizDom Work\SuperMarketApi\SuperMarketApi\bin\Debug\netcoreapp2.2\SuperMarketApi.runtimeconfig.dev.json
+C:\BizDom Work\SuperMarketApi\SuperMarketApi\bin\Debug\netcoreapp2.2\SuperMarketApi.dll
+C:\BizDom Work\SuperMarketApi\SuperMarketApi\bin\Debug\netcoreapp2.2\SuperMarketApi.pdb
+C:\BizDom Work\SuperMarketApi\SuperMarketApi\obj\Debug\netcoreapp2.2\SuperMarketApi.csprojAssemblyReference.cache
+C:\BizDom Work\SuperMarketApi\SuperMarketApi\obj\Debug\netcoreapp2.2\SuperMarketApi.AssemblyInfoInputs.cache
+C:\BizDom Work\SuperMarketApi\SuperMarketApi\obj\Debug\netcoreapp2.2\SuperMarketApi.AssemblyInfo.cs
+C:\BizDom Work\SuperMarketApi\SuperMarketApi\obj\Debug\netcoreapp2.2\SuperMarketApi.csproj.CoreCompileInputs.cache
+C:\BizDom Work\SuperMarketApi\SuperMarketApi\obj\Debug\netcoreapp2.2\SuperMarketApi.RazorAssemblyInfo.cache
+C:\BizDom Work\SuperMarketApi\SuperMarketApi\obj\Debug\netcoreapp2.2\SuperMarketApi.RazorAssemblyInfo.cs
+C:\BizDom Work\SuperMarketApi\SuperMarketApi\obj\Debug\netcoreapp2.2\SuperMarketApi.RazorTargetAssemblyInfo.cache
+C:\BizDom Work\SuperMarketApi\SuperMarketApi\obj\Debug\netcoreapp2.2\SuperMarketApi.genruntimeconfig.cache
+C:\Users\Maste\source\repos\SuperMarketApi\SuperMarketApi\bin\Debug\netcoreapp2.2\appsettings.Development.json
+C:\Users\Maste\source\repos\SuperMarketApi\SuperMarketApi\bin\Debug\netcoreapp2.2\appsettings.json
+C:\Users\Maste\source\repos\SuperMarketApi\SuperMarketApi\bin\Debug\netcoreapp2.2\SuperMarketApi.deps.json
+C:\Users\Maste\source\repos\SuperMarketApi\SuperMarketApi\bin\Debug\netcoreapp2.2\SuperMarketApi.runtimeconfig.json
+C:\Users\Maste\source\repos\SuperMarketApi\SuperMarketApi\bin\Debug\netcoreapp2.2\SuperMarketApi.runtimeconfig.dev.json
+C:\Users\Maste\source\repos\SuperMarketApi\SuperMarketApi\bin\Debug\netcoreapp2.2\SuperMarketApi.dll
+C:\Users\Maste\source\repos\SuperMarketApi\SuperMarketApi\bin\Debug\netcoreapp2.2\SuperMarketApi.pdb
+C:\Users\Maste\source\repos\SuperMarketApi\SuperMarketApi\obj\Debug\netcoreapp2.2\SuperMarketApi.csproj.AssemblyReference.cache
+C:\Users\Maste\source\repos\SuperMarketApi\SuperMarketApi\obj\Debug\netcoreapp2.2\SuperMarketApi.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Maste\source\repos\SuperMarketApi\SuperMarketApi\obj\Debug\netcoreapp2.2\SuperMarketApi.AssemblyInfoInputs.cache
+C:\Users\Maste\source\repos\SuperMarketApi\SuperMarketApi\obj\Debug\netcoreapp2.2\SuperMarketApi.AssemblyInfo.cs
+C:\Users\Maste\source\repos\SuperMarketApi\SuperMarketApi\obj\Debug\netcoreapp2.2\SuperMarketApi.csproj.CoreCompileInputs.cache
+C:\Users\Maste\source\repos\SuperMarketApi\SuperMarketApi\obj\Debug\netcoreapp2.2\SuperMarketApi.RazorAssemblyInfo.cache
+C:\Users\Maste\source\repos\SuperMarketApi\SuperMarketApi\obj\Debug\netcoreapp2.2\SuperMarketApi.RazorAssemblyInfo.cs
+C:\Users\Maste\source\repos\SuperMarketApi\SuperMarketApi\obj\Debug\netcoreapp2.2\SuperMarketApi.RazorTargetAssemblyInfo.cache
+C:\Users\Maste\source\repos\SuperMarketApi\SuperMarketApi\obj\Debug\netcoreapp2.2\SuperMarketApi.dll
+C:\Users\Maste\source\repos\SuperMarketApi\SuperMarketApi\obj\Debug\netcoreapp2.2\SuperMarketApi.pdb
+C:\Users\Maste\source\repos\SuperMarketApi\SuperMarketApi\obj\Debug\netcoreapp2.2\SuperMarketApi.genruntimeconfig.cache
+C:\Temp\VJ_API\SuperMarketApi\SuperMarketApi\bin\Debug\netcoreapp2.2\appsettings.Development.json
+C:\Temp\VJ_API\SuperMarketApi\SuperMarketApi\bin\Debug\netcoreapp2.2\appsettings.json
+C:\Temp\VJ_API\SuperMarketApi\SuperMarketApi\bin\Debug\netcoreapp2.2\SuperMarketApi.deps.json
+C:\Temp\VJ_API\SuperMarketApi\SuperMarketApi\bin\Debug\netcoreapp2.2\SuperMarketApi.runtimeconfig.json
+C:\Temp\VJ_API\SuperMarketApi\SuperMarketApi\bin\Debug\netcoreapp2.2\SuperMarketApi.runtimeconfig.dev.json
+C:\Temp\VJ_API\SuperMarketApi\SuperMarketApi\bin\Debug\netcoreapp2.2\SuperMarketApi.dll
+C:\Temp\VJ_API\SuperMarketApi\SuperMarketApi\bin\Debug\netcoreapp2.2\SuperMarketApi.pdb
+C:\Temp\VJ_API\SuperMarketApi\SuperMarketApi\obj\Debug\netcoreapp2.2\SuperMarketApi.csproj.AssemblyReference.cache
+C:\Temp\VJ_API\SuperMarketApi\SuperMarketApi\obj\Debug\netcoreapp2.2\SuperMarketApi.GeneratedMSBuildEditorConfig.editorconfig
+C:\Temp\VJ_API\SuperMarketApi\SuperMarketApi\obj\Debug\netcoreapp2.2\SuperMarketApi.AssemblyInfoInputs.cache
+C:\Temp\VJ_API\SuperMarketApi\SuperMarketApi\obj\Debug\netcoreapp2.2\SuperMarketApi.AssemblyInfo.cs
+C:\Temp\VJ_API\SuperMarketApi\SuperMarketApi\obj\Debug\netcoreapp2.2\SuperMarketApi.csproj.CoreCompileInputs.cache
+C:\Temp\VJ_API\SuperMarketApi\SuperMarketApi\obj\Debug\netcoreapp2.2\SuperMarketApi.RazorAssemblyInfo.cache
+C:\Temp\VJ_API\SuperMarketApi\SuperMarketApi\obj\Debug\netcoreapp2.2\SuperMarketApi.RazorAssemblyInfo.cs
+C:\Temp\VJ_API\SuperMarketApi\SuperMarketApi\obj\Debug\netcoreapp2.2\SuperMarketApi.RazorTargetAssemblyInfo.cache
+C:\Temp\VJ_API\SuperMarketApi\SuperMarketApi\obj\Debug\netcoreapp2.2\SuperMarketApi.dll
+C:\Temp\VJ_API\SuperMarketApi\SuperMarketApi\obj\Debug\netcoreapp2.2\SuperMarketApi.pdb
+C:\Temp\VJ_API\SuperMarketApi\SuperMarketApi\obj\Debug\netcoreapp2.2\SuperMarketApi.genruntimeconfig.cache
+C:\Temp\SuperMarketApi\SuperMarketApi\obj\Debug\netcoreapp2.2\SuperMarketApi.csproj.AssemblyReference.cache
+C:\Temp\SuperMarketApi\SuperMarketApi\obj\Debug\netcoreapp2.2\SuperMarketApi.GeneratedMSBuildEditorConfig.editorconfig
+C:\Temp\SuperMarketApi\SuperMarketApi\obj\Debug\netcoreapp2.2\SuperMarketApi.AssemblyInfoInputs.cache
+C:\Temp\SuperMarketApi\SuperMarketApi\obj\Debug\netcoreapp2.2\SuperMarketApi.AssemblyInfo.cs
+C:\Temp\SuperMarketApi\SuperMarketApi\obj\Debug\netcoreapp2.2\SuperMarketApi.csproj.CoreCompileInputs.cache
+C:\Temp\SuperMarketApi\SuperMarketApi\obj\Debug\netcoreapp2.2\SuperMarketApi.RazorAssemblyInfo.cache
+C:\Temp\SuperMarketApi\SuperMarketApi\obj\Debug\netcoreapp2.2\SuperMarketApi.RazorAssemblyInfo.cs
+C:\Temp\SuperMarketApi\SuperMarketApi\bin\Debug\netcoreapp2.2\appsettings.Development.json
+C:\Temp\SuperMarketApi\SuperMarketApi\bin\Debug\netcoreapp2.2\appsettings.json
+C:\Temp\SuperMarketApi\SuperMarketApi\bin\Debug\netcoreapp2.2\SuperMarketApi.deps.json
+C:\Temp\SuperMarketApi\SuperMarketApi\bin\Debug\netcoreapp2.2\SuperMarketApi.runtimeconfig.json
+C:\Temp\SuperMarketApi\SuperMarketApi\bin\Debug\netcoreapp2.2\SuperMarketApi.runtimeconfig.dev.json
+C:\Temp\SuperMarketApi\SuperMarketApi\bin\Debug\netcoreapp2.2\SuperMarketApi.dll
+C:\Temp\SuperMarketApi\SuperMarketApi\bin\Debug\netcoreapp2.2\SuperMarketApi.pdb
+C:\Temp\SuperMarketApi\SuperMarketApi\obj\Debug\netcoreapp2.2\SuperMarketApi.RazorTargetAssemblyInfo.cache
+C:\Temp\SuperMarketApi\SuperMarketApi\obj\Debug\netcoreapp2.2\SuperMarketApi.dll
+C:\Temp\SuperMarketApi\SuperMarketApi\obj\Debug\netcoreapp2.2\SuperMarketApi.pdb
+C:\Temp\SuperMarketApi\SuperMarketApi\obj\Debug\netcoreapp2.2\SuperMarketApi.genruntimeconfig.cache
+D:\Biz1Markt\Queen\Biz1Market_API_Queen\SuperMarketApi\bin\Debug\netcoreapp2.2\appsettings.Development.json
+D:\Biz1Markt\Queen\Biz1Market_API_Queen\SuperMarketApi\bin\Debug\netcoreapp2.2\appsettings.json
+D:\Biz1Markt\Queen\Biz1Market_API_Queen\SuperMarketApi\bin\Debug\netcoreapp2.2\SuperMarketApi.deps.json
+D:\Biz1Markt\Queen\Biz1Market_API_Queen\SuperMarketApi\bin\Debug\netcoreapp2.2\SuperMarketApi.runtimeconfig.json
+D:\Biz1Markt\Queen\Biz1Market_API_Queen\SuperMarketApi\bin\Debug\netcoreapp2.2\SuperMarketApi.runtimeconfig.dev.json
+D:\Biz1Markt\Queen\Biz1Market_API_Queen\SuperMarketApi\bin\Debug\netcoreapp2.2\SuperMarketApi.dll
+D:\Biz1Markt\Queen\Biz1Market_API_Queen\SuperMarketApi\bin\Debug\netcoreapp2.2\SuperMarketApi.pdb
+D:\Biz1Markt\Queen\Biz1Market_API_Queen\SuperMarketApi\obj\Debug\netcoreapp2.2\SuperMarketApi.csproj.AssemblyReference.cache
+D:\Biz1Markt\Queen\Biz1Market_API_Queen\SuperMarketApi\obj\Debug\netcoreapp2.2\SuperMarketApi.GeneratedMSBuildEditorConfig.editorconfig
+D:\Biz1Markt\Queen\Biz1Market_API_Queen\SuperMarketApi\obj\Debug\netcoreapp2.2\SuperMarketApi.AssemblyInfoInputs.cache
+D:\Biz1Markt\Queen\Biz1Market_API_Queen\SuperMarketApi\obj\Debug\netcoreapp2.2\SuperMarketApi.AssemblyInfo.cs
+D:\Biz1Markt\Queen\Biz1Market_API_Queen\SuperMarketApi\obj\Debug\netcoreapp2.2\SuperMarketApi.csproj.CoreCompileInputs.cache
+D:\Biz1Markt\Queen\Biz1Market_API_Queen\SuperMarketApi\obj\Debug\netcoreapp2.2\SuperMarketApi.RazorAssemblyInfo.cache
+D:\Biz1Markt\Queen\Biz1Market_API_Queen\SuperMarketApi\obj\Debug\netcoreapp2.2\SuperMarketApi.RazorAssemblyInfo.cs
+D:\Biz1Markt\Queen\Biz1Market_API_Queen\SuperMarketApi\obj\Debug\netcoreapp2.2\SuperMarketApi.RazorTargetAssemblyInfo.cache
+D:\Biz1Markt\Queen\Biz1Market_API_Queen\SuperMarketApi\obj\Debug\netcoreapp2.2\SuperMarketApi.dll
+D:\Biz1Markt\Queen\Biz1Market_API_Queen\SuperMarketApi\obj\Debug\netcoreapp2.2\SuperMarketApi.pdb
+D:\Biz1Markt\Queen\Biz1Market_API_Queen\SuperMarketApi\obj\Debug\netcoreapp2.2\SuperMarketApi.genruntimeconfig.cache
+D:\Biz1-supermarket-Website\api-supermarket-website\Biz1Market_API_Queen\SuperMarketApi\bin\Debug\netcoreapp2.2\appsettings.Development.json
+D:\Biz1-supermarket-Website\api-supermarket-website\Biz1Market_API_Queen\SuperMarketApi\bin\Debug\netcoreapp2.2\appsettings.json
+D:\Biz1-supermarket-Website\api-supermarket-website\Biz1Market_API_Queen\SuperMarketApi\bin\Debug\netcoreapp2.2\SuperMarketApi.deps.json
+D:\Biz1-supermarket-Website\api-supermarket-website\Biz1Market_API_Queen\SuperMarketApi\bin\Debug\netcoreapp2.2\SuperMarketApi.runtimeconfig.json
+D:\Biz1-supermarket-Website\api-supermarket-website\Biz1Market_API_Queen\SuperMarketApi\bin\Debug\netcoreapp2.2\SuperMarketApi.runtimeconfig.dev.json
+D:\Biz1-supermarket-Website\api-supermarket-website\Biz1Market_API_Queen\SuperMarketApi\bin\Debug\netcoreapp2.2\SuperMarketApi.dll
+D:\Biz1-supermarket-Website\api-supermarket-website\Biz1Market_API_Queen\SuperMarketApi\bin\Debug\netcoreapp2.2\SuperMarketApi.pdb
+D:\Biz1-supermarket-Website\api-supermarket-website\Biz1Market_API_Queen\SuperMarketApi\obj\Debug\netcoreapp2.2\SuperMarketApi.csproj.AssemblyReference.cache
+D:\Biz1-supermarket-Website\api-supermarket-website\Biz1Market_API_Queen\SuperMarketApi\obj\Debug\netcoreapp2.2\SuperMarketApi.GeneratedMSBuildEditorConfig.editorconfig
+D:\Biz1-supermarket-Website\api-supermarket-website\Biz1Market_API_Queen\SuperMarketApi\obj\Debug\netcoreapp2.2\SuperMarketApi.AssemblyInfoInputs.cache
+D:\Biz1-supermarket-Website\api-supermarket-website\Biz1Market_API_Queen\SuperMarketApi\obj\Debug\netcoreapp2.2\SuperMarketApi.AssemblyInfo.cs
+D:\Biz1-supermarket-Website\api-supermarket-website\Biz1Market_API_Queen\SuperMarketApi\obj\Debug\netcoreapp2.2\SuperMarketApi.csproj.CoreCompileInputs.cache
+D:\Biz1-supermarket-Website\api-supermarket-website\Biz1Market_API_Queen\SuperMarketApi\obj\Debug\netcoreapp2.2\SuperMarketApi.RazorAssemblyInfo.cache
+D:\Biz1-supermarket-Website\api-supermarket-website\Biz1Market_API_Queen\SuperMarketApi\obj\Debug\netcoreapp2.2\SuperMarketApi.RazorAssemblyInfo.cs
+D:\Biz1-supermarket-Website\api-supermarket-website\Biz1Market_API_Queen\SuperMarketApi\obj\Debug\netcoreapp2.2\SuperMarketApi.RazorTargetAssemblyInfo.cache
+D:\Biz1-supermarket-Website\api-supermarket-website\Biz1Market_API_Queen\SuperMarketApi\obj\Debug\netcoreapp2.2\SuperMarketApi.dll
+D:\Biz1-supermarket-Website\api-supermarket-website\Biz1Market_API_Queen\SuperMarketApi\obj\Debug\netcoreapp2.2\SuperMarketApi.pdb
+D:\Biz1-supermarket-Website\api-supermarket-website\Biz1Market_API_Queen\SuperMarketApi\obj\Debug\netcoreapp2.2\SuperMarketApi.genruntimeconfig.cache

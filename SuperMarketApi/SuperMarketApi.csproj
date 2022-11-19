@@ -1,0 +1,115 @@
+﻿<Project Sdk="Microsoft.NET.Sdk.Web">
+
+  <PropertyGroup>
+    <TargetFramework>netcoreapp2.2</TargetFramework>
+    <AspNetCoreHostingModel>InProcess</AspNetCoreHostingModel>
+    <UserSecretsId>c22906a5-dc1a-4203-bb4c-4c3861a8e3c6</UserSecretsId>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <Compile Remove="Migrations\20201214095817_klgdjfkgjkdfjgkjdfg5465ghh65gfdgsgf.cs" />
+    <Compile Remove="Migrations\20201214095817_klgdjfkgjkdfjgkjdfg5465ghh65gfdgsgf.Designer.cs" />
+    <Compile Remove="Migrations\20201214100008_klgdjfkgjkdfjgkjdfg5465ghh65gfdgsgf265.cs" />
+    <Compile Remove="Migrations\20201214100008_klgdjfkgjkdfjgkjdfg5465ghh65gfdgsgf265.Designer.cs" />
+    <Compile Remove="Migrations\20201214100140_klgdjfkgj2.cs" />
+    <Compile Remove="Migrations\20201214100140_klgdjfkgj2.Designer.cs" />
+    <Compile Remove="Migrations\20201214100928_klgdjfkgj225gfds.cs" />
+    <Compile Remove="Migrations\20201214100928_klgdjfkgj225gfds.Designer.cs" />
+    <Compile Remove="Migrations\20201214101044_klgdjfkgj225gfds541.cs" />
+    <Compile Remove="Migrations\20201214101044_klgdjfkgj225gfds541.Designer.cs" />
+    <Compile Remove="Migrations\20201214101733_klgdjfkgj225gfds5416565241654.cs" />
+    <Compile Remove="Migrations\20201214101733_klgdjfkgj225gfds5416565241654.Designer.cs" />
+    <Compile Remove="Migrations\20201214102313_klgdjfkgj225gfds5416565241654fgldkflgklkg.cs" />
+    <Compile Remove="Migrations\20201214102313_klgdjfkgj225gfds5416565241654fgldkflgklkg.Designer.cs" />
+    <Compile Remove="Migrations\20201214102528_test.cs" />
+    <Compile Remove="Migrations\20201214102528_test.Designer.cs" />
+    <Compile Remove="Migrations\20201214102624_test.cs" />
+    <Compile Remove="Migrations\20201214102624_test.Designer.cs" />
+    <Compile Remove="Migrations\20201214102655_test.cs" />
+    <Compile Remove="Migrations\20201214102655_test.Designer.cs" />
+    <Compile Remove="Migrations\20201214102859_test.cs" />
+    <Compile Remove="Migrations\20201214102859_test.Designer.cs" />
+    <Compile Remove="Migrations\20201214111329_test001.cs" />
+    <Compile Remove="Migrations\20201214111329_test001.Designer.cs" />
+    <Compile Remove="Migrations\20201214112621_test001.cs" />
+    <Compile Remove="Migrations\20201214112621_test001.Designer.cs" />
+    <Compile Remove="Migrations\20201223164218_sf11.cs" />
+    <Compile Remove="Migrations\20201223164218_sf11.Designer.cs" />
+    <Compile Remove="Migrations\20210105095536_sdkjfgjkdfgkjdhcg.cs" />
+    <Compile Remove="Migrations\20210105095536_sdkjfgjkdfgkjdhcg.Designer.cs" />
+    <Compile Remove="Migrations\20210105101148_tuesday001.cs" />
+    <Compile Remove="Migrations\20210105101148_tuesday001.Designer.cs" />
+    <Compile Remove="Migrations\20210105102106_tuesday001.cs" />
+    <Compile Remove="Migrations\20210105102106_tuesday001.Designer.cs" />
+    <Compile Remove="Migrations\20210105102739_tuesday001.cs" />
+    <Compile Remove="Migrations\20210105102739_tuesday001.Designer.cs" />
+    <Compile Remove="Migrations\20210105104219_tuesday001.cs" />
+    <Compile Remove="Migrations\20210105104219_tuesday001.Designer.cs" />
+    <Compile Remove="Migrations\20210106041718_tuesday001.cs" />
+    <Compile Remove="Migrations\20210106041718_tuesday001.Designer.cs" />
+    <Compile Remove="Migrations\20210106042502_tuesday001.cs" />
+    <Compile Remove="Migrations\20210106042502_tuesday001.Designer.cs" />
+    <Compile Remove="Migrations\20210106042708_tuesday001.cs" />
+    <Compile Remove="Migrations\20210106042708_tuesday001.Designer.cs" />
+    <Compile Remove="Migrations\20210106043053_tuesday001.cs" />
+    <Compile Remove="Migrations\20210106043053_tuesday001.Designer.cs" />
+    <Compile Remove="Migrations\20210106044907_tuesday001.cs" />
+    <Compile Remove="Migrations\20210106044907_tuesday001.Designer.cs" />
+    <Compile Remove="Migrations\20210106052709_tuesday001.cs" />
+    <Compile Remove="Migrations\20210106052709_tuesday001.Designer.cs" />
+    <Compile Remove="Migrations\20210122044621_qwerty.cs" />
+    <Compile Remove="Migrations\20210122044621_qwerty.Designer.cs" />
+    <Compile Remove="Migrations\20210227060632_masood5.0.cs" />
+    <Compile Remove="Migrations\20210227060632_masood5.0.Designer.cs" />
+    <Compile Remove="Migrations\20210302042251_masoodqwertyu2.0.cs" />
+    <Compile Remove="Migrations\20210302042251_masoodqwertyu2.0.Designer.cs" />
+    <Compile Remove="Migrations\20210302043115_masood1.cs" />
+    <Compile Remove="Migrations\20210302043115_masood1.Designer.cs" />
+    <Compile Remove="Migrations\20210302043312_masood1.cs" />
+    <Compile Remove="Migrations\20210302043312_masood1.Designer.cs" />
+    <Compile Remove="Migrations\20210302043929_masood1.cs" />
+    <Compile Remove="Migrations\20210302043929_masood1.Designer.cs" />
+    <Compile Remove="Migrations\20210302044310_masood1.cs" />
+    <Compile Remove="Migrations\20210302044310_masood1.Designer.cs" />
+    <Compile Remove="Migrations\20210302044710_masood2.cs" />
+    <Compile Remove="Migrations\20210302044710_masood2.Designer.cs" />
+    <Compile Remove="Migrations\20210302051951_masood3.cs" />
+    <Compile Remove="Migrations\20210302051951_masood3.Designer.cs" />
+    <Compile Remove="Migrations\20210302052754_masood3.cs" />
+    <Compile Remove="Migrations\20210302052754_masood3.Designer.cs" />
+    <Compile Remove="Migrations\20210302053843_masood3.cs" />
+    <Compile Remove="Migrations\20210302053843_masood3.Designer.cs" />
+    <Compile Remove="Migrations\20210302054158_masood3.cs" />
+    <Compile Remove="Migrations\20210302054158_masood3.Designer.cs" />
+    <Compile Remove="Migrations\20210302060015_masood3.cs" />
+    <Compile Remove="Migrations\20210302060015_masood3.Designer.cs" />
+    <Compile Remove="Migrations\20210331051947_qwertyuioplkjhgfdsa.cs" />
+    <Compile Remove="Migrations\20210331051947_qwertyuioplkjhgfdsa.Designer.cs" />
+    <Compile Remove="Migrations\20210413043541_qwertyuioplkjnmtuesday.cs" />
+    <Compile Remove="Migrations\20210413043541_qwertyuioplkjnmtuesday.Designer.cs" />
+    <Compile Remove="Migrations\20210413044450_qwertyuioplkjnmtuesday.cs" />
+    <Compile Remove="Migrations\20210413044450_qwertyuioplkjnmtuesday.Designer.cs" />
+    <Compile Remove="Migrations\20210421092329_qwertyhgbvfrtgwednesday.cs" />
+    <Compile Remove="Migrations\20210421092329_qwertyhgbvfrtgwednesday.Designer.cs" />
+    <Compile Remove="Migrations\20211215103652_migarationforstorepaymenttypes.cs" />
+    <Compile Remove="Migrations\20211215103652_migarationforstorepaymenttypes.Designer.cs" />
+    <Compile Remove="Migrations\20211215103858_migarationforstorepaymenttypessss.cs" />
+    <Compile Remove="Migrations\20211215103858_migarationforstorepaymenttypessss.Designer.cs" />
+    <Compile Remove="Migrations\20220315100242_updatestorelevelplanid.cs" />
+    <Compile Remove="Migrations\20220315100242_updatestorelevelplanid.Designer.cs" />
+    <Compile Remove="Migrations\20220315100614_updatestorelevelplanidss.cs" />
+    <Compile Remove="Migrations\20220315100614_updatestorelevelplanidss.Designer.cs" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <PackageReference Include="EntityFramework" Version="6.4.4" />
+    <PackageReference Include="Microsoft.Aspnet.Signalr" Version="2.4.1" />
+    <PackageReference Include="Microsoft.AspNet.WebApi.Cors" Version="5.2.7" />
+    <PackageReference Include="Microsoft.AspNetCore.App" />
+    <PackageReference Include="Microsoft.AspNetCore.Razor.Design" Version="2.2.0" PrivateAssets="All" />
+    <PackageReference Include="Microsoft.AspNetCore.SignalR" Version="1.1.0" />
+    <PackageReference Include="Microsoft.Azure.KeyVault" Version="3.0.5" />
+    <PackageReference Include="xunit.extensibility.core" Version="2.4.1" />
+  </ItemGroup>
+
+</Project>

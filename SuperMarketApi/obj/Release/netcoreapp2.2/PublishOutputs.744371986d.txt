@@ -1,0 +1,16 @@
+C:\BizDom Work\SuperMarketApi\SuperMarketApi\obj\Release\netcoreapp2.2\PubTmp\Out\appsettings.Development.json
+C:\BizDom Work\SuperMarketApi\SuperMarketApi\obj\Release\netcoreapp2.2\PubTmp\Out\appsettings.json
+C:\BizDom Work\SuperMarketApi\SuperMarketApi\obj\Release\netcoreapp2.2\PubTmp\Out\SuperMarketApi.dll
+C:\BizDom Work\SuperMarketApi\SuperMarketApi\obj\Release\netcoreapp2.2\PubTmp\Out\SuperMarketApi.runtimeconfig.json
+C:\BizDom Work\SuperMarketApi\SuperMarketApi\obj\Release\netcoreapp2.2\PubTmp\Out\SuperMarketApi.pdb
+C:\BizDom Work\SuperMarketApi\SuperMarketApi\obj\Release\netcoreapp2.2\PubTmp\Out\System.Web.Cors.dll
+C:\BizDom Work\SuperMarketApi\SuperMarketApi\obj\Release\netcoreapp2.2\PubTmp\Out\System.Net.Http.Formatting.dll
+C:\BizDom Work\SuperMarketApi\SuperMarketApi\obj\Release\netcoreapp2.2\PubTmp\Out\System.Web.Http.dll
+C:\BizDom Work\SuperMarketApi\SuperMarketApi\obj\Release\netcoreapp2.2\PubTmp\Out\System.Web.Http.Cors.dll
+C:\BizDom Work\SuperMarketApi\SuperMarketApi\obj\Release\netcoreapp2.2\PubTmp\Out\Microsoft.Azure.KeyVault.dll
+C:\BizDom Work\SuperMarketApi\SuperMarketApi\obj\Release\netcoreapp2.2\PubTmp\Out\Microsoft.Azure.KeyVault.WebKey.dll
+C:\BizDom Work\SuperMarketApi\SuperMarketApi\obj\Release\netcoreapp2.2\PubTmp\Out\Microsoft.Rest.ClientRuntime.dll
+C:\BizDom Work\SuperMarketApi\SuperMarketApi\obj\Release\netcoreapp2.2\PubTmp\Out\Microsoft.Rest.ClientRuntime.Azure.dll
+C:\BizDom Work\SuperMarketApi\SuperMarketApi\obj\Release\netcoreapp2.2\PubTmp\Out\xunit.abstractions.dll
+C:\BizDom Work\SuperMarketApi\SuperMarketApi\obj\Release\netcoreapp2.2\PubTmp\Out\xunit.core.dll
+C:\BizDom Work\SuperMarketApi\SuperMarketApi\obj\Release\netcoreapp2.2\PubTmp\Out\SuperMarketApi.deps.json
