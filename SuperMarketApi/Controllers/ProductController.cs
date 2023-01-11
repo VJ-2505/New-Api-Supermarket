@@ -145,7 +145,6 @@ namespace SuperMarketApi.Controllers
                 Product product = data.product.ToObject<Product>();
                 SqlConnection sqlCon = new SqlConnection(Configuration.GetConnectionString("myconn"));
                 sqlCon.Open();
-
                 SqlCommand cmd = new SqlCommand("dbo.CreateProduct", sqlCon);
                 cmd.CommandType = CommandType.StoredProcedure;
                 cmd.Parameters.Add(new SqlParameter("@companyid", product.CompanyId));
@@ -362,6 +361,8 @@ namespace SuperMarketApi.Controllers
                 product.Name = product.Name;
                 product.Description = product.Description;
                 product.BarCode = product.BarCode;
+                
+
                 if (image != null)
                     product.ImgUrl = ImageUpload(product.CompanyId, image);
                 db.Products.Add(product);               
@@ -419,7 +420,7 @@ namespace SuperMarketApi.Controllers
                     stock.SortOrder = -1;
                     stock.StorageStoreId = store.Id;
                     stock.StoreId = store.Id;
-                    stock.StorageStoreName = store.Name;
+                        stock.StorageStoreName = store.Name;
                     db.Stocks.Add(stock);
                     db.SaveChanges();
                 }

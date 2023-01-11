@@ -3,9 +3,11 @@ using Microsoft.AspNetCore.Mvc;
 using Microsoft.EntityFrameworkCore;
 using Microsoft.Extensions.Configuration;
 using Newtonsoft.Json;
+using Newtonsoft.Json.Linq;
 using SuperMarketApi.Models;
 using System;
 using System.Collections.Generic;
+using System.ComponentModel.Design;
 using System.Data;
 using System.Data.SqlClient;
 using System.Linq;
@@ -62,25 +64,70 @@ namespace SuperMarketApi.Controllers
 
         //}
 
+        //[HttpPost("cancellorder")]
+        //public IActionResult cancellorder(int orderid, [FromBody] JObject orderjson)
+        //{
+        //    try
+        //    {
+        //        dynamic json = orderjson;
+        //        Order order = db.Orders.Find(orderid);
+        //        order.OrderStatusId = -1;
+        //        order.CancelReason = json.CancelReason;
+        //        order.OrderJson = JsonConvert.SerializeObject(orderjson);
+        //        db.Entry(order).State = EntityState.Modified;
+        //        db.SaveChanges();
+        //        Transaction transaction = new Transaction();
+        //        transaction.Amount = order.PaidAmount;
+        //        transaction.CompanyId = order.CompanyId;
+        //        transaction.CustomerId = order.CustomerId;
+        //        transaction.ModifiedDateTime = TimeZoneInfo.ConvertTimeFromUtc(DateTime.UtcNow, India_Standard_Time);
+        //        transaction.OrderId = order.Id;
+        //        transaction.PaymentTypeId = 6;
+        //        transaction.StoreId = order.StoreId;
+        //        transaction.TransDate = TimeZoneInfo.ConvertTimeFromUtc(DateTime.UtcNow, India_Standard_Time);
+        //        transaction.TransDateTime = TimeZoneInfo.ConvertTimeFromUtc(DateTime.UtcNow, India_Standard_Time);
+        //        transaction.TranstypeId = 2;
+        //        transaction.UserId = order.UserId;
+        //        db.Transactions.Add(transaction);
+        //        db.SaveChanges();
+        //        var response = new
+        //        {
+        //            status = 200,
+        //            message = "Order successfully cancelled"
+        //        };
+        //        return Json(response);
+        //    }
+        //    catch (Exception e)
+        //    {
+        //        var error = new
+        //        {
+        //            error = new Exception(e.Message, e.InnerException),
+        //            status = 0,
+        //            msg = "Something went wrong  Contact our service provider"
+        //        };
+        //        return Json(error);
+        //    }
+        //}
+
         [HttpGet("Get")]
-        public IActionResult Get(int StoreId, int CompanyId, int StartId, string type, string dataType, DateTime? fromdate, DateTime? todate, string invoice)
+        public IActionResult Get(int companyid, int storeid, DateTime fromdate, DateTime todate, int startid, int endid, string invoice)
         {
             try
             {
                 SqlConnection sqlCon = new SqlConnection(Configuration.GetConnectionString("myconn"));
                 sqlCon.Open();
 
-                SqlCommand cmd = new SqlCommand("dbo.Receipt", sqlCon);
+                SqlCommand cmd = new SqlCommand("dbo.Invoices", sqlCon);
                 cmd.CommandType = CommandType.StoredProcedure;
 
-                cmd.Parameters.Add(new SqlParameter("@compId", CompanyId));
-                cmd.Parameters.Add(new SqlParameter("@storeId", StoreId));
-                cmd.Parameters.Add(new SqlParameter("@startId", StartId));
-                cmd.Parameters.Add(new SqlParameter("@type", type));
-                cmd.Parameters.Add(new SqlParameter("@data", dataType));
-                cmd.Parameters.Add(new SqlParameter("@fromDate", fromdate));
+                cmd.Parameters.Add(new SqlParameter("@comapnyid", companyid));
+                cmd.Parameters.Add(new SqlParameter("@storeid", storeid));
+                cmd.Parameters.Add(new SqlParameter("@fromdate", fromdate));
                 cmd.Parameters.Add(new SqlParameter("@todate", todate));
+                cmd.Parameters.Add(new SqlParameter("@startid", startid));
+                cmd.Parameters.Add(new SqlParameter("@endid", endid));
                 cmd.Parameters.Add(new SqlParameter("@invoice", invoice));
+                cmd.Parameters.Add(new SqlParameter("@top", 25));
 
                 DataSet ds = new DataSet();
                 SqlDataAdapter sqlAdp = new SqlDataAdapter(cmd);
@@ -89,18 +136,10 @@ namespace SuperMarketApi.Controllers
                 DataTable table = ds.Tables[0];
                 var data = new
                 {
-                    receipts = ds.Tables[0],
-                    orderItems = ds.Tables[1],
-                    // Options = ds.Tables[2],
-                    AdditionalCharges = ds.Tables[2],
-                    KOTs = ds.Tables[3],
-                    Transaction = ds.Tables[4],
-                    FirstOrderId = ds.Tables[5],
-                    LastOrderId = ds.Tables[6],
-                    TotalPayments = ds.Tables[7],
-                    PaymentType = db.PaymentTypes.ToList(),
-                    Customers = db.Customers.ToList(),
-                    TransactionPayments = ds.Tables[8]
+                    invoices = ds.Tables[0],
+                    tot_sales = ds.Tables[1],
+                    message = "success",
+                    status = 200
                 };
                 sqlCon.Close();
                 return Ok(data);
@@ -109,6 +148,7 @@ namespace SuperMarketApi.Controllers
             {
                 var error = new
                 {
+                    invoices = Array.Empty<JObject>(),
                     error = new Exception(e.Message, e.InnerException),
                     status = 0,
                     msg = "Something went wrong  Contact our service provider"

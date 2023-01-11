@@ -111,6 +111,9 @@ namespace SuperMarketApi.Controllers
                 }
                 else
                 {
+
+                }
+                {
                     if (cphone != "" && cphone != null)
                     {
                         customerid = db.Customers.Where(x => x.PhoneNo == cphone).Any() ? db.Customers.Where(x => x.PhoneNo == cphone).FirstOrDefault().Id : 0;

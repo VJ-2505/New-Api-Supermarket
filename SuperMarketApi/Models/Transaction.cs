@@ -78,24 +78,24 @@ namespace SuperMarketApi.Models
         [DataType(DataType.Date)]
         [DisplayFormat(DataFormatString = "{0:yyyy-MM-dd}", ApplyFormatInEditMode = true)]
         public System.DateTime? DueDate { get; set; }
-    public bool? IsReturn { get; set; }
-    [NotMapped]
-    [DataType(DataType.Date)]
-    public string TransDateStr
-    {
-      get;
-      set;
+        public bool? IsReturn { get; set; }
+        [NotMapped]
+        [DataType(DataType.Date)]
+        public string TransDateStr
+        {
+            get;
+            set;
+        }
+        [NotMapped]
+        [DataType(DataType.Time)]
+        public string TransTime
+        {
+            get;
+            set;
+        }
+
+
+
+
     }
-    [NotMapped]
-    [DataType(DataType.Time)]
-    public string TransTime
-    {
-      get;
-      set;
-    }
-
-
-
-
-  }
 }

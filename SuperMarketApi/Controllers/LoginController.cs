@@ -306,8 +306,9 @@ namespace SuperMarketApi.Controllers
                     storapaymenttypes = ds.Tables[13],
                     Producttypes = ds.Tables[14],
                     Stores = ds.Tables[15],
-                    DiningArea = JsonConvert.DeserializeObject(catStr[16]),
-                    DiningTable = JsonConvert.DeserializeObject(catStr[17]),
+                    batchprod = ds.Tables[16],
+                    DiningArea = JsonConvert.DeserializeObject(catStr[17]),
+                    DiningTable = JsonConvert.DeserializeObject(catStr[18]),
                     //Store = db.Stores.Where(x => x.CompanyId == CompanyId).ToList()
                 };
                 return Ok(response);

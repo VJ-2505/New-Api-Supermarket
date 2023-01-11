@@ -201,13 +201,13 @@ namespace SuperMarketApi.Controllers
         {
             try
             {
-                var prod = new
+                var company = new
                 {
                     company = db.Companies.Where(c => c.Id == companyId).FirstOrDefault(),
                     accounts = db.Accounts.Where(a => a.CompanyId == companyId).FirstOrDefault(),
                     user = db.Users.Where(u => u.CompanyId == companyId).FirstOrDefault()
                 };
-                return Json(prod);
+                return Json(company);
             }
             catch (Exception ex)
             {

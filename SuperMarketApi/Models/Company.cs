@@ -16,6 +16,6 @@ namespace SuperMarketApi.Models
         public string Country { get; set; }
         public string PostalCode { get; set; }
         public bool Updated { get; set; }
-        public int? AkountzCompanyId { get; set; }
+        //public int? AkountzCompanyId { get; set; }
     }
 }

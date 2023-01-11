@@ -11,6 +11,7 @@ using System.Collections.Generic;
 using SuperMarketApi.Models.Enum;
 using Newtonsoft.Json.Linq;
 using Newtonsoft.Json;
+using System.ComponentModel.Design;
 /*using System.Linq;*/
 namespace SuperMarketApi.Controllers
 {
@@ -62,6 +63,69 @@ namespace SuperMarketApi.Controllers
             };
             return Json(response);
         }
+
+
+
+      
+
+     
+
+
+        [HttpGet("GetInternalproduct")]
+        [EnableCors("AllowOrigin")]
+        public IActionResult GetInternalproduct(int CompanyId, int StoreId, bool testid)
+        {
+            try
+            {
+                SqlConnection sqlCon = new SqlConnection(Configuration.GetConnectionString("myconn"));
+                sqlCon.Open();
+
+                SqlCommand cmd = new SqlCommand("dbo.addWastage", sqlCon);
+                cmd.CommandType = CommandType.StoredProcedure;
+                cmd.Parameters.Add(new SqlParameter("@CompanyId", CompanyId));
+                cmd.Parameters.Add(new SqlParameter("@StoreId", StoreId));
+                cmd.Parameters.Add(new SqlParameter("@testid", testid));
+                DataSet ds = new DataSet();
+                if (testid == false)
+                {
+                    SqlDataAdapter sqlAdp = new SqlDataAdapter(cmd);
+                    sqlAdp.Fill(ds);
+                    var response = new
+                    {
+                        batchprod = ds.Tables[0],
+
+                        status = 200,
+                    };
+                    return Json(response);
+
+                }
+                else
+                {
+                    SqlDataAdapter sqlAdp = new SqlDataAdapter(cmd);
+                    sqlAdp.Fill(ds);
+                    var response = new
+                    {
+                        product = ds.Tables[0],
+                        batchprod = ds.Tables[1],
+                        status = 200,
+                    };
+                    return Json(response);
+
+                }
+
+            }
+            catch (Exception ex)
+            {
+                var response = new
+                {
+                    status = 500,
+                    error = new Exception(ex.Message, ex.InnerException),
+                };
+                return Json(response);
+            }
+        }
+
+
 
 
         [HttpGet("getContactData")]
@@ -801,6 +865,7 @@ namespace SuperMarketApi.Controllers
 
             return items;
         }
+
 
         [HttpPost("OrdDispatch")]
         public ActionResult OrdDispatch([FromBody] dynamic objData)
